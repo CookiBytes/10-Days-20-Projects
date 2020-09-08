@@ -14,4 +14,4 @@
 
 7. Upload Images - by [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
-8. Music Player - by [ReactNinja](https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg)
+8. Dark / Light Toggle - by [ReactNinja](https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg)
