@@ -1,4 +1,4 @@
-# 11-Days-20-Projects
+# 11 Days 20 Projects
 
 1. Basic Forms - by [Chris Blakely](https://www.youtube.com/channel/UC-Zcse8tC53G34Uo4kzLeAg)
 
@@ -11,3 +11,7 @@
 5. Stopwatch - by [Coding with Elias](https://www.youtube.com/channel/UC4fluVc3N9SpAgTItIZ3Mow)
 
 6. Random Quote Generator - by [h3webdevtuts](https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg)
+
+7. Upload Images - by [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+
+8. Music Player - by [ReactNinja](https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg)
