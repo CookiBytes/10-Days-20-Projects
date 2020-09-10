@@ -18,7 +18,7 @@
 
 9. Colour Picker - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
 
-10. Credit Card - by [Codevolution[(https://www.youtube.com/c/Codevolution/videos)
+10. Credit Card - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
 
 11. Video Player - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
 
