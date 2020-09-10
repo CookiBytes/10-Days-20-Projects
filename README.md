@@ -15,3 +15,11 @@
 7. Upload Images - by [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
 8. Dark / Light Toggle - by [ReactNinja](https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg)
+
+9. Colour Picker - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
+
+10. Credit Card - by [Codevolution[(https://www.youtube.com/c/Codevolution/videos)
+
+11. Video Player - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
+
+12. Cat Meme Generator - by [Chris Achard](https://www.youtube.com/channel/UCVIwPyQrjHP4cAXYPiSgLxg)
