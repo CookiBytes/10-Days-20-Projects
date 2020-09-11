@@ -37,6 +37,6 @@
 
 **Day 7**
 
-13. Cropping Images - by [CodingEntrepreneurs](https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg)
+13. Cropping Images - by [The Polyglot Developer](https://www.youtube.com/channel/UCcfoM3n4KMAAMZzom4_mRZA)
 
 14. Typing Animation - by [Catalin Miron](https://www.youtube.com/channel/UCTcH04SRuyedaSuuQVeAcdg)
