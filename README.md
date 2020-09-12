@@ -40,3 +40,9 @@
 13. Cropping Images - by [The Polyglot Developer](https://www.youtube.com/channel/UCcfoM3n4KMAAMZzom4_mRZA)
 
 14. Typing Animation - by [Catalin Miron](https://www.youtube.com/channel/UCTcH04SRuyedaSuuQVeAcdg)
+
+**Day 8**
+
+15. Loading Indicators - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+16. React Charts - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
