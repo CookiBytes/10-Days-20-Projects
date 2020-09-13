@@ -1,48 +1,55 @@
-# 12 Days 20 Projects
+# 11 Days 20 Projects
 
-> **Day 1**
-> 1. Basic Forms - by [Chris Blakely](https://www.youtube.com/channel/UC-Zcse8tC53G34Uo4kzLeAg)
+**Day 1**
 
-> 2. Quiz App - by [Chris Blakely](https://www.youtube.com/channel/UC-Zcse8tC53G34Uo4kzLeAg)
+1. Basic Forms - by [Chris Blakely](https://www.youtube.com/channel/UC-Zcse8tC53G34Uo4kzLeAg)
 
-> **Day 2**
+2. Quiz App - by [Chris Blakely](https://www.youtube.com/channel/UC-Zcse8tC53G34Uo4kzLeAg)
 
-> 3. Stock Market Data - by [Simon Suh](https://www.youtube.com/channel/UCerseizI_AmazrcbHxp-dqw)
+**Day 2**
 
-> 4. React ToDo - by [Sam Gamage](https://www.youtube.com/channel/UCGEEpTZygTTS7099gplKJeg)
+3. Stock Market Data - by [Simon Suh](https://www.youtube.com/channel/UCerseizI_AmazrcbHxp-dqw)
 
-> **Day 3**
+4. React ToDo - by [Sam Gamage](https://www.youtube.com/channel/UCGEEpTZygTTS7099gplKJeg)
 
-> 5. Stopwatch - by [Coding with Elias](https://www.youtube.com/channel/UC4fluVc3N9SpAgTItIZ3Mow)
+**Day 3**
 
-> 6. Random Quote Generator - by [h3webdevtuts](https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg)
+5. Stopwatch - by [Coding with Elias](https://www.youtube.com/channel/UC4fluVc3N9SpAgTItIZ3Mow)
 
-> **Day 4**
+6. Random Quote Generator - by [h3webdevtuts](https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg)
 
-> 7. Upload Images - by [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+**Day 4**
 
-> 8. Dark / Light Toggle - by [ReactNinja](https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg)
+7. Upload Images - by [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
-> **Day 5**
+8. Dark / Light Toggle - by [ReactNinja](https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg)
 
-> 9. Colour Picker - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
+**Day 5**
 
-> 10. Credit Card - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
+9. Colour Picker - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
 
-> **Day 6**
+10. Credit Card - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
 
-> 11. Video Player - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
+**Day 6**
 
-> 12. Cat Meme Generator - by [Chris Achard](https://www.youtube.com/channel/UCVIwPyQrjHP4cAXYPiSgLxg)
+11. Video Player - by [Codevolution](https://www.youtube.com/c/Codevolution/videos)
 
-> **Day 7**
+12. Cat Meme Generator - by [Chris Achard](https://www.youtube.com/channel/UCVIwPyQrjHP4cAXYPiSgLxg)
 
-> 13. Cropping Images - by [The Polyglot Developer](https://www.youtube.com/channel/UCcfoM3n4KMAAMZzom4_mRZA)
+**Day 7**
 
-> 14. Typing Animation - by [Catalin Miron](https://www.youtube.com/channel/UCTcH04SRuyedaSuuQVeAcdg)
+13. Cropping Images - by [The Polyglot Developer](https://www.youtube.com/channel/UCcfoM3n4KMAAMZzom4_mRZA)
 
-> **Day 8**
+14. Typing Animation - by [Catalin Miron](https://www.youtube.com/channel/UCTcH04SRuyedaSuuQVeAcdg)
 
-> 15. Loading Indicators - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+**Day 8**
 
-> 16. React Charts - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+15. Loading Indicators - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+16. React Charts - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+**Day 9**
+
+15. Toast Notifications - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+16. Date Picker - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
