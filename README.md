@@ -1,5 +1,7 @@
 # 10 Days 20 Projects
 
+The challenge is now completed 🎉
+
 **Day 1**
 
 1. Basic Forms - by [Chris Blakely](https://www.youtube.com/channel/UC-Zcse8tC53G34Uo4kzLeAg)
