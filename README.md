@@ -58,8 +58,3 @@
 
 17. Icons - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 18. Tooltips - by [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
-
-**Day 11**
-
-17. Colour Palette - by [h3webdevtuts](https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg)
-18. Carousel - by [h3webdevtuts](https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg)
